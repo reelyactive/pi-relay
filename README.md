@@ -1,11 +1,14 @@
 pi-relay
-============
+========
+
+
+![pi-relay](http://reelyactive.github.io/images/piHub-connected.jpg)
 
 
 Prerequisites
 -------------
 
-Connect the minimal starter kit via the Pi's USB port.
+You will require a [Raspberry Pi](https://www.raspberrypi.org) (preferably a Pi 3) and our [minimal starter kit](http://shop.reelyactive.com/products/starterkit-min).  See our [Make a Raspberry Pi Hub](http://reelyactive.github.io/make-a-pi-hub.html) tutorial for detailed step-by-step instructions.
 
 
 Installation
@@ -15,6 +18,8 @@ Clone the repo.
 
     npm install
 
+(This step is fully documented in the [tutorial](http://reelyactive.github.io/make-a-pi-hub.html))
+
 
 Operation
 ---------
@@ -22,6 +27,8 @@ Operation
 Run the program from the root of the repository:
 
     node pi-relay
+
+(This step is also fully documented in the [tutorial](http://reelyactive.github.io/make-a-pi-hub.html))
 
 
 How do I know it's working?
