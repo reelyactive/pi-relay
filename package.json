@@ -1,0 +1,28 @@
+{
+  "name": "pi-relay",
+  "version": "0.1.0",
+  "description": "Raspberry Pi based relay of real-time events to a remote server. We believe in an open Internet of Things.",
+  "main": "pi-relay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reelyactive/pi-relay.git"
+  },
+  "keywords": [
+    "reelyActive",
+    "Raspberry Pi",
+    "IoT",
+    "RTLS"
+  ],
+  "dependencies": {
+    "barnowl": ">=0.4.21",
+    "serialport": ">=2.0.6",
+    "reelib": ">=0.0.11"
+  },
+  "contributors": [
+    { "name": "Jeffrey Dungen" }
+  ],
+  "license": "MIT"
+}
